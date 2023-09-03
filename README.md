@@ -12,8 +12,8 @@ actions. The communication between these processes can be seen as a method of co
 
 Processes can communicate with each other through both:
 
-- Message Passing
-- Shared Memory
+- Message Passing (code and output provided in Repo)
+- Shared Memory (code and output provided in Repo)
 
 Here, are the reasons for using the inter process communication protocol for information sharing:
 
